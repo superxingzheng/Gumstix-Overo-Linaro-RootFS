@@ -1,2 +1,4 @@
 List of known issues (not exhaustive):
  - Seg fault on shutdown
+ - Long network seek time on boot up
+
