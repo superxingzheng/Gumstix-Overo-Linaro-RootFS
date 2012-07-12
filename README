@@ -2,3 +2,7 @@ List of known issues (not exhaustive):
  - Seg fault on shutdown
  - Long network seek time on boot up
 
+List of known issues for ALIP (not exhaustive):
+ - User/Host name for some reason have not been changed
+ - Powered USB hub connected to USB OTG do not work (mode does not get set)
+ - Boot time disk corruption occurs on Overo Water COM 
